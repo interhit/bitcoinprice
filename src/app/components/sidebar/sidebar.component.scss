@@ -1,0 +1,38 @@
+i.crypto-icons {
+  width: 32px;
+  height: 32px;
+  background-size: 100%;
+  background-repeat: none;
+
+    &.ti-btc {
+      background-image: url('../../../assets/img/icons/btc.png');
+    }
+    &.ti-bch {
+      background-image: url('../../../assets/img/icons/bch.png');
+    }
+    &.ti-btg {
+      background-image: url('../../../assets/img/icons/btg.png');
+    }
+    &.ti-eth {
+      background-image: url('../../../assets/img/icons/eth.png');
+    }
+    &.ti-xrp {
+      background-image: url('../../../assets/img/icons/xrp.png');
+    }
+    &.ti-etc {
+      background-image: url('../../../assets/img/icons/etc.png');
+    }
+    &.ti-ada {
+      background-image: url('../../../assets/img/icons/ada.png');
+    }
+    &.ti-iota {
+      background-image: url('../../../assets/img/icons/miota.png');
+    }
+    &.ti-ltc {
+      background-image: url('../../../assets/img/icons/ltc.png');
+    }
+    &.ti-eos {
+      background-image: url('../../../assets/img/icons/eos.png');
+    }
+
+}
